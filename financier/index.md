@@ -51,4 +51,4 @@ If this policy changes, the date above is updated.
 
 ## Contact
 
-Questions: <CONTACT_EMAIL>
+Questions: genshisama@gmail.com
